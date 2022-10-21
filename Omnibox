@@ -27,7 +27,3 @@ chrome.omnibox.onInputChanged.addListener(function(text, suggest){
   // Return  suggestions
   suggest(suggestions);
 });
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
